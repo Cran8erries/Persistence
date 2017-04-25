@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: c6349517279420549bb9a7d3d23c5b3d
+timeCreated: 1487876470
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ground_001
+    100002: Ground_002
+    100004: Ground_003
+    100006: Ground_004
+    100008: Ground_005
+    100010: Ground_006
+    100012: Ground_007
+    100014: Ground_008
+    100016: Ground_009
+    100018: Ground_010
+    100020: Ground_011
+    100022: Ground_012
+    100024: Ground_013
+    100026: Ground_014
+    100028: Ground_015
+    100030: Ground_016
+    100032: //RootNode
+    400000: Ground_001
+    400002: Ground_002
+    400004: Ground_003
+    400006: Ground_004
+    400008: Ground_005
+    400010: Ground_006
+    400012: Ground_007
+    400014: Ground_008
+    400016: Ground_009
+    400018: Ground_010
+    400020: Ground_011
+    400022: Ground_012
+    400024: Ground_013
+    400026: Ground_014
+    400028: Ground_015
+    400030: Ground_016
+    400032: //RootNode
+    2300000: Ground_001
+    2300002: Ground_002
+    2300004: Ground_003
+    2300006: Ground_004
+    2300008: Ground_005
+    2300010: Ground_006
+    2300012: Ground_007
+    2300014: Ground_008
+    2300016: Ground_009
+    2300018: Ground_010
+    2300020: Ground_011
+    2300022: Ground_012
+    2300024: Ground_013
+    2300026: Ground_014
+    2300028: Ground_015
+    2300030: Ground_016
+    3300000: Ground_001
+    3300002: Ground_002
+    3300004: Ground_003
+    3300006: Ground_004
+    3300008: Ground_005
+    3300010: Ground_006
+    3300012: Ground_007
+    3300014: Ground_008
+    3300016: Ground_009
+    3300018: Ground_010
+    3300020: Ground_011
+    3300022: Ground_012
+    3300024: Ground_013
+    3300026: Ground_014
+    3300028: Ground_015
+    3300030: Ground_016
+    4300000: Ground_001
+    4300002: Ground_002
+    4300004: Ground_003
+    4300006: Ground_011
+    4300008: Ground_012
+    4300010: Ground_004
+    4300012: Ground_005
+    4300014: Ground_006
+    4300016: Ground_007
+    4300018: Ground_013
+    4300020: Ground_014
+    4300022: Ground_008
+    4300024: Ground_009
+    4300026: Ground_010
+    4300028: Ground_015
+    4300030: Ground_016
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
